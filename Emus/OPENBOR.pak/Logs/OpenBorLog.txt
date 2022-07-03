@@ -1,0 +1,688 @@
+Total Ram:   106549248 Bytes (   101 MB )
+ Free Ram:    39628800 Bytes (    37 MB )
+ Used Ram:     1281536 Bytes (     1 MB )
+
+debug:nativeWidth, nativeHeight, bpp, Hz  0, 0, 0, 0
+OpenBoR v4.0 Build 0 (commit hash: b00efbc), Compile Date: Apr 22 2022
+
+Game Selected: /mnt/SDCARD/Roms/Beats of Rage (OPENBOR)/TMNT - Recolored & Extended.pak
+
+Loaded mapping for Keyboard
+FileCaching System Init......	Enabled
+Initializing video............
+Reading video settings from 'data/video.txt'.
+
+Colordepth is depreciated. All modules are displayed with a 32bit color screen.
+
+Initialized video.............	320x240 (Mode: 0)
+
+Loading menu.txt.............	Done!
+Loading fonts................	1 2 3 4 5 Done!
+Timer init...................	Done!
+Initialize Sound..............	
+Loading sprites..............	Done!
+Loading level order..........	
+Command 'mprate' not understood in level order!
+Command 'credscore' not understood in level order!
+Done!
+Loading model constants......	Done!
+Loading script settings......	Done!
+Loading scripts..............	Done!
+Loading models...............
+
+Cacheing 'Flash' from data/chars/misc/flash.txt
+Cacheing 'Leo' from data/chars/Leo/Leo.txt
+Cacheing 'Don' from data/chars/Don/Don.txt
+Cacheing 'Raph' from data/chars/Raph/Raph.txt
+Cacheing 'Mike' from data/chars/Mike/Mike.txt
+Cacheing 'Splintr' from data/chars/Splinter/Splinter.txt
+Cacheing 'April' from data/chars/April/April.txt
+Cacheing 'Casey' from data/chars/Casey/Casey.txt
+Cacheing 'Casey$' from data/chars/Casey/OLCase.txt
+Cacheing 'April$' from data/chars/April/April$.txt
+Cacheing 'ShinCut' from data/chars/Leo/ShinCut.txt
+Cacheing 'GroundCl' from data/chars/Don/GroundCl.txt
+Cacheing 'Jamboree' from data/chars/Raph/Jamboree.txt
+Cacheing 'DragBrea' from data/chars/Mike/DragBrea.txt
+Cacheing 'SWave' from data/chars/Splinter/SWave.txt
+Cacheing 'StarAprl' from data/chars/April/StarAprl.txt
+Cacheing 'CWave' from data/chars/Casey/CWave.txt
+Cacheing '1pBound' from data/chars/Misc/1pBound/1pBound.txt
+Cacheing '2pBound' from data/chars/Misc/1pBound/2pBound.txt
+Cacheing '1pBound' from data/chars/Misc/1pBound/3pBound.txt
+Cacheing '2pBound' from data/chars/Misc/1pBound/4pBound.txt
+Cacheing 'Light01' from data/chars/misc/LightFX/Light01.txt
+Cacheing 'Light1' from data/bgs/Extra01/Light1.txt
+Cacheing 'Light2' from data/bgs/Extra01/Light2.txt
+Cacheing 'Light1F' from data/bgs/Extra01/Light1F.txt
+Cacheing 'Light2F' from data/bgs/Extra01/Light2F.txt
+Cacheing 'Light1P' from data/bgs/Extra01/Light1P.txt
+Cacheing 'BGLight' from data/bgs/Downtown/BGLight.txt
+Cacheing 'Sw0Light' from data/bgs/Sewer00/Sw0Light.txt
+Cacheing 'READY' from data/chars/Misc/READY.txt
+Cacheing 'LightOut' from data/chars/Misc/Texts/LightOut.txt
+Cacheing 'Downfall' from data/chars/Misc/Texts/Downfall.txt
+Cacheing 'Swear' from data/chars/Misc/Texts/Swear.txt
+Cacheing 'Prayers' from data/chars/Misc/Texts/Prayers.txt
+Cacheing 'TV' from data/bgs/Stage202/TV.txt
+Cacheing 'TV2' from data/bgs/Stage202/TV2.txt
+Cacheing 'HAHAHA' from data/chars/Misc/Texts/HAHAHA.txt
+Cacheing 'HAHAHA2' from data/chars/Misc/Texts/HAHAHA2.txt
+Cacheing 'ShlBrain' from data/chars/Misc/Texts/ShlBrain.txt
+Cacheing 'Yippee' from data/chars/Misc/Texts/Yippee.txt
+Cacheing 'CrashTur' from data/chars/Misc/Texts/CrashTur.txt
+Cacheing 'MyToes' from data/chars/Misc/Texts/MyToes.txt
+Cacheing 'Invincbl' from data/chars/Misc/Texts/Invincbl.txt
+Cacheing 'Mutagen' from data/chars/Misc/Texts/Mutagen.txt
+Cacheing 'Republic' from data/chars/Misc/Texts/Republic.txt
+Cacheing 'MonstersA' from data/chars/Misc/Texts/MonstersA.txt
+Cacheing '3Card' from data/chars/Misc/Texts/3Card.txt
+Cacheing 'FakeNose' from data/chars/Misc/Texts/FakeNose.txt
+Cacheing 'WelPizza' from data/chars/Misc/Texts/WelPizza.txt
+Cacheing 'RockHumn' from data/chars/Misc/Texts/RockHumn.txt
+Cacheing '1stSewer' from data/chars/Misc/Texts/1stSewer.txt
+Cacheing 'Attack' from data/chars/Misc/Texts/Attack.txt
+Cacheing 'Goodie' from data/chars/Misc/Texts/Goodie.txt
+Cacheing 'Wallet' from data/chars/Misc/Texts/Wallet.txt
+Cacheing 'Martians' from data/chars/Misc/Texts/Martians.txt
+Cacheing 'Cesspool' from data/chars/Misc/Texts/Cesspool.txt
+Cacheing 'TokkaTX' from data/chars/Misc/Texts/TokkaTX.txt
+Cacheing 'RahzarTX' from data/chars/Misc/Texts/RahzarTX.txt
+Cacheing 'Pizza' from data/chars/Misc/Pizza.txt
+Cacheing 'Branch01' from data/chars/Branch/Branch01.txt
+Cacheing 'Branch02' from data/chars/Branch/Branch02.txt
+Cacheing 'Branch03' from data/chars/Branch/Branch03.txt
+Cacheing 'Branch04' from data/chars/Branch/Branch04.txt
+Cacheing 'BranchUP' from data/chars/Branch/BranchUP.txt
+Cacheing 'BrnchDwn' from data/chars/Branch/BrnchDwn.txt
+Cacheing 'ExplBran' from data/chars/Branch/ExplBran.txt
+Cacheing 'Shot' from data/chars/Rock/Shot.txt
+Cacheing 'ScragSho' from data/chars/Scrag/ScragSho.txt
+Cacheing 'Wave' from data/chars/Bebop/Wave.txt
+Cacheing 'Boomeran' from data/chars/Foot212/Boomeran.txt
+Cacheing 'RcktShtr' from data/chars/Misc/SewerBar/RcktShtr.txt
+Cacheing 'SwerRckt' from data/chars/Misc/SewerBar/SwrRckt.txt
+Cacheing 'WaveR' from data/chars/Robot/WaveR.txt
+Cacheing 'WaveF' from data/chars/Foot217/WaveF.txt
+Cacheing 'Knife' from data/chars/Foot202/Knife.txt
+Cacheing 'Star' from data/chars/Foot203/Star.txt
+Cacheing 'Dynamite' from data/chars/Foot208/Dynamite.txt
+Cacheing 'SnowBall' from data/chars/Foot203/SnowBall.txt
+Cacheing 'SnowShov' from data/chars/Foot211/SnowShov.txt
+Cacheing 'SMRocket' from data/chars/SnowMan/SMRocket.TXT
+Cacheing 'Naginata' from data/chars/Foot209/Naginata.txt
+Cacheing 'Laser' from data/chars/Roadkill/Laser.txt
+Cacheing 'LaserOL' from data/chars/Roadkill/LaserOL.txt
+Cacheing 'Laser2' from data/chars/Roadkill/Laser2.txt
+Cacheing 'LaserR' from data/bgs/TechDro0/LaserR.txt
+Cacheing 'Shot2' from data/chars/Foot205/Shot2.txt
+Cacheing 'BaxRay' from data/chars/Baxter2/BaxRay.txt
+Cacheing 'TireWeap' from data/chars/Foot201/TireWeap.TXT
+Cacheing 'ShotCHP' from data/chars/FootChop/ShotCHP.TXT
+Cacheing 'Missile' from data/chars/FootChop/Missile.TXT
+Cacheing 'LaserV' from data/chars/Misc/LaserV/LaserV.txt
+Cacheing 'TechShtr' from data/chars/Misc/TechShot/TechShtr.TXT
+Cacheing 'TechShot' from data/chars/Misc/TechShot/TechShot.TXT
+Cacheing 'LaserV2' from data/chars/Misc/LaserV/LaserV2.txt
+Cacheing 'BeetleSH' from data/chars/Beetle/BeetleSH.TXT
+Cacheing 'Flame' from data/chars/Granitor/Flame.TXT
+Cacheing 'BNKnife' from data/chars/BigNinja/BNKnife.TXT
+Cacheing 'Arrow' from data/chars/Foot215/Arrow.TXT
+Cacheing 'Rocket' from data/chars/Traag/Rocket.TXT
+Cacheing 'RcktPnch' from data/chars/Krang/RcktPnch.TXT
+Cacheing 'LaserKra' from data/chars/Krang/LaserKra.TXT
+Cacheing 'RcktKrng' from data/chars/Krang/RcktKrng.TXT
+Cacheing 'ShdRay' from data/chars/Shredder/ShdRay.TXT
+Cacheing 'Grenade' from data/chars/RatKing/Grenade.txt
+Cacheing 'IceRings' from data/chars/Tokka/IceRings.txt
+Cacheing 'GrenHado' from data/chars/SuperShd/GrenHado.txt
+Cacheing 'ShdFire' from data/chars/SuperShd/ShdFire.txt
+Cacheing 'ShIceRay' from data/chars/SuperShd/ShIceRay.txt
+Cacheing 'RockBull' from data/chars/RockSol1/RockBull.txt
+Cacheing 'RockShot' from data/chars/RockSol3/RockShot.txt
+Cacheing 'BossExpl' from data/chars/ChromeDo/BossExpl/BossExpl.txt
+Cacheing 'BossExp2' from data/chars/ChromeDo/BossExpl/BossExp2.txt
+Cacheing 'BossExp3' from data/chars/ChromeDo/BossExpl/BossExp3.txt
+Cacheing 'Explode' from data/chars/Misc/Explode.txt
+Cacheing 'BGFire' from data/chars/Misc/BGFire.txt
+Cacheing 'Fire' from data/chars/Misc/Fire.txt
+Cacheing 'AprilBu' from data/chars/April/AprilBu.txt
+Cacheing 'AprilEn' from data/chars/April/AprilEn.txt
+Cacheing 'AprPark' from data/chars/April/AprPark.txt
+Cacheing 'SplintlEn' from data/chars/Splinter/SplintEn.txt
+Cacheing 'SkatGirl' from data/chars/Misc/skatGirl.txt
+Cacheing 'SktGrlSu' from data/bgs/Subway/SktGrlSu.txt
+Cacheing 'SpMoused' from data/chars/Splinter/SpMoused.txt
+Cacheing 'DojoTech' from data/bgs/Stage209/DojoTech.TXT
+Cacheing 'TechBG' from data/bgs/Stage210/TechBG.txt
+Cacheing 'Vernon' from data/chars/April/Vernon.txt
+Cacheing 'Dude' from data/bgs/Extra01/Dude.txt
+Cacheing 'NinPizFG' from data/bgs/NinPizza/NinPizFG.txt
+Cacheing 'FireBuil' from data/bgs/BigApple/FireBuil.txt
+Cacheing 'OldLady' from data/bgs/Downtown/OldLady.txt
+Cacheing 'OldGuy' from data/bgs/Downtown/OldGuy.txt
+Cacheing 'Cards' from data/bgs/Downtown/Cards.txt
+Cacheing 'Vendor' from data/bgs/Downtown/Vendor.txt
+Cacheing 'VendoTab' from data/bgs/Downtown/VendoTab.txt
+Cacheing 'BoomBox' from data/bgs/Downtown/BoomBox.txt
+Cacheing 'JnsGirl' from data/bgs/Downtown/JnsGirl.txt
+Cacheing 'BlackGuy' from data/bgs/Downtown/BlackGuy.txt
+Cacheing 'AprChair' from data/bgs/RoofTop/AprChair.txt
+Cacheing 'LitMac' from data/bgs/CentPrk2/LitMac.txt
+Cacheing 'WaterF01' from data/bgs/Sewers02/WaterF01.txt
+Cacheing 'WaterF2' from data/bgs/Sewers02/WaterF2.txt
+Cacheing 'WaterCir' from data/bgs/Sewers02/WaterCir.TXT
+Cacheing 'Breaker' from data/bgs/Sewers02/Breaker.txt
+Cacheing 'Raft' from data/bgs/LeatherH/Raft.txt
+Cacheing 'RaftW' from data/bgs/LeatherH/RaftW.txt
+Cacheing 'Splash01' from data/bgs/LeatherH/Splash01.txt
+Cacheing 'Splash02' from data/bgs/LeatherH/Splash02.txt
+Cacheing 'Splash03' from data/bgs/LeatherH/Splash03.txt
+Cacheing 'Splash04' from data/bgs/LeatherH/Splash04.txt
+Cacheing 'Splash05' from data/bgs/LeatherH/Splash05.txt
+Cacheing 'Splash08' from data/bgs/LeatherH/Splash08.txt
+Cacheing 'Splash14' from data/bgs/LeatherH/Splash14.txt
+Cacheing 'CrawFish' from data/chars/LeatherH/CrawFish.txt
+Cacheing 'Citizen0' from data/bgs/OutLaw/Citizen0.txt
+Cacheing 'Citizn00' from data/bgs/OutLaw/Citizn00.txt
+Cacheing 'HomeLess' from data/bgs/OutLaw/HomeLess.txt
+Cacheing 'Tech3BG' from data/bgs/TechDro3/Tech3BG.txt
+Cacheing 'T4ElvPla' from data/bgs/TechDro4/T4ElvPla.txt
+Cacheing 'T4ElvBG' from data/bgs/TechDro4/T4ElvBG.txt
+Cacheing 'T4ElvBG2' from data/bgs/TechDro4/T4ElvBG2.txt
+Cacheing 'SceneLeo' from data/chars/April/SceneLeo.txt
+Cacheing 'SceneDon' from data/chars/April/SceneDon.txt
+Cacheing 'SceneRaph' from data/chars/April/SceneRaph.txt
+Cacheing 'SceneMike' from data/chars/April/SceneMike.txt
+Cacheing 'Delay' from data/chars/misc/Delay.txt
+Cacheing 'OpenBOR' from data/chars/Misc/Graffiti/OpenBOR.txt
+Cacheing 'OldSchol' from data/chars/Misc/Graffiti/OldSchol.txt
+Cacheing '202Platf' from data/chars/Misc/202Platf.txt
+Cacheing 'Empty' from data/chars/Empty/Empty.txt
+Cacheing 'FireBurn' from data/chars/Misc/FireBurn.txt
+Cacheing 'Door' from data/chars/Misc/Door/Door.txt
+Cacheing 'Door2' from data/chars/Misc/Door/Door2.txt
+Cacheing 'ElevDoor' from data/chars/Misc/Elevator/ElevDoor.txt
+Cacheing 'EleDoor2' from data/chars/Misc/Elevator/EleDoor2.txt
+Cacheing 'Ball' from data/chars/Misc/Ball/Ball.txt
+Cacheing 'Baller' from data/chars/Misc/Ball/Baller.txt
+Cacheing 'Baller0' from data/chars/Misc/Ball/Baller0.txt
+Cacheing 'Ball2' from data/chars/Misc/Ball/Ball2.txt
+Cacheing 'TD3Ball' from data/bgs/TechDro3/TD3Ball.txt
+Cacheing 'Baller2' from data/chars/Misc/Ball/Baller2.txt
+Cacheing 'Baller21' from data/chars/Misc/Ball/Baller21.txt
+Cacheing 'Baller22' from data/chars/Misc/Ball/Baller22.txt
+Cacheing 'Module' from data/chars/Misc/Module/Module.txt
+Cacheing 'ShredMod' from data/chars/Shredder/ShredMod.TXT
+Cacheing 'BluCarFG' from data/chars/Misc/Cars/BluCarFG.TXT
+Cacheing 'RedCarFG' from data/chars/Misc/Cars/RedCarFG.TXT
+Cacheing 'BCarDFG' from data/chars/Misc/Cars/BCarDFG.TXT
+Cacheing 'RCarDFG' from data/chars/Misc/Cars/RCarDFG.TXT
+Cacheing 'Truck' from data/chars/Misc/Cars/Truck.TXT
+Cacheing 'Manhole0' from data/chars/Misc/Manhole/Manhole0.txt
+Cacheing 'ManholeB' from data/chars/Misc/Manhole/ManholeB.txt
+Cacheing 'ManholeW' from data/chars/Foot201/ManholeW.txt
+Cacheing 'Window' from data/chars/Misc/Window/Window.txt
+Cacheing 'WindowD' from data/chars/Misc/Window/WindowD.txt
+Cacheing 'Window2' from data/chars/Misc/Window/Window2.txt
+Cacheing 'SewerBar' from data/chars/Misc/SewerBar/SewerBar.TXT
+Cacheing 'Splash' from data/chars/Misc/SewerBar/Splash.txt
+Cacheing 'ParkMe' from data/chars/Misc/ParkMe/ParkMe.txt
+Cacheing 'ParkMe2' from data/chars/Misc/ParkMe/ParkMe2.txt
+Cacheing 'ParkMTop' from data/chars/Misc/ParkMe/ParkMTop.txt
+Cacheing 'ParkMBot' from data/chars/Misc/ParkMe/ParkMBot.txt
+Cacheing 'Hydrant' from data/chars/Misc/Hydrant/Hydrant.txt
+Cacheing 'HydrInvi' from data/chars/Misc/Hydrant/HydrInvi.txt
+Cacheing 'HydWater' from data/chars/Misc/Hydrant/HydWater.txt
+Cacheing 'HydrantD' from data/chars/Misc/Hydrant/HydrantD.txt
+Cacheing 'PizzaH0' from data/chars/Misc/PizzaHut/PizzaH0.txt
+Cacheing 'PizzaH1' from data/chars/Misc/PizzaHut/PizzaH1.txt
+Cacheing 'Water' from data/chars/Misc/Water/Water.txt
+Cacheing 'WaterBro' from data/chars/Misc/Water/WaterBro.txt
+Cacheing 'Hole' from data/chars/Misc/Hole.txt
+Cacheing 'Hole2' from data/chars/Misc/Hole2.txt
+Cacheing 'HoleMous' from data/chars/Misc/HoleMous.txt
+Cacheing 'HolMous2' from data/chars/Misc/HolMous2.txt
+Cacheing 'SnowSpwn' from data/chars/Misc/Snow/SnowSpwn.txt
+Cacheing 'Snow' from data/chars/Misc/Snow/Snow.txt
+Cacheing 'IceRock' from data/chars/Misc/IceRock/IceRock.txt
+Cacheing 'IceRckSp' from data/chars/Misc/IceRock/IceRckSp.txt
+Cacheing 'IceRockS' from data/chars/Misc/IceRock/IceRockS.txt
+Cacheing 'IceRockB' from data/chars/Misc/IceRock/IceRockB.txt
+Cacheing 'SnowHole' from data/chars/Misc/SnowHole/SnowHole.txt
+Cacheing 'SnowCar' from data/chars/Misc/SnowCar/SnowCar.txt
+Cacheing 'WeatherB' from data/chars/Misc/WeatherB/WeatherB.txt
+Cacheing 'Barrel01' from data/chars/Misc/Barrel/Barrel01.txt
+Cacheing 'BarrelR' from data/chars/Misc/BarrelR/BarrelR.txt
+Cacheing 'BarrExp' from data/chars/Misc/Barrel/BarrExp.txt
+Cacheing 'BarrRExp' from data/chars/Misc/BarrelR/BarrRExp.txt
+Cacheing 'Cone01' from data/chars/Misc/Cone/Cone01.txt
+Cacheing 'ConeFly' from data/chars/Misc/Cone/ConeFly.txt
+Cacheing 'Sign01' from data/chars/Misc/Sign/Sign01.txt
+Cacheing 'SignTop' from data/chars/Misc/Sign/SignTop.txt
+Cacheing 'SignBot' from data/chars/Misc/Sign/SignBot.txt
+Cacheing 'Sign02' from data/chars/Misc/Sign/Sign02.txt
+Cacheing 'CarDoor' from data/chars/Misc/CarDoor.txt
+Cacheing 'ParkElev' from data/chars/Misc/ParkElev/ParkElev.txt
+Cacheing 'ParkElv2' from data/chars/Misc/ParkElev/ParkElv2.txt
+Cacheing 'BlueCar' from data/chars/Misc/Parkcars/BlueCar.txt
+Cacheing 'BlueCar2' from data/chars/Misc/Parkcars/BlueCar2.txt
+Cacheing 'RedCar' from data/chars/Misc/Parkcars/RedCar.txt
+Cacheing 'RedCar2' from data/chars/Misc/Parkcars/RedCar2.txt
+Cacheing 'Tire' from data/chars/Misc/Tire/Tire.TXT
+Cacheing 'TMNTVan' from data/bgs/Stage207/TMNTVan.TXT
+Cacheing 'RedCarB' from data/chars/Misc/Cars/RedCarB.TXT
+Cacheing 'BlueCarB' from data/chars/Misc/Cars/BlueCarB.TXT
+Cacheing 'YellCarB' from data/chars/Misc/Cars/YellCarB.TXT
+Cacheing 'GranRock' from data/chars/Granitor/GranRock.TXT
+Cacheing 'GranRoc2' from data/chars/Granitor/GranRoc2.TXT
+Cacheing 'RedRect' from data/chars/Misc/RedRect/RedRect.TXT
+Cacheing 'Candle' from data/chars/Misc/Candle/Candle.TXT
+Cacheing 'CandleB' from data/chars/Misc/Candle/CandleB.TXT
+Cacheing 'DojoDoor' from data/chars/Misc/DojoDoor/DojoDoor.TXT
+Cacheing 'DojoHole' from data/chars/Misc/DojoHole/DojoHole.TXT
+Cacheing 'Bamboo' from data/chars/Misc/Bamboo/Bamboo.TXT
+Cacheing 'TigerD1' from data/chars/Tiger/TigerD1.TXT
+Cacheing 'TigerD2' from data/chars/Tiger/TigerD2.TXT
+Cacheing 'TechDoor' from data/chars/Misc/TechDoor/TechDoor.TXT
+Cacheing 'TechElev' from data/chars/Misc/TechElev/TechElev.TXT
+Cacheing 'TechEle2' from data/chars/Misc/TechElev/TechEle2.TXT
+Cacheing 'ElevBG00' from data/chars/Misc/TechElev/ElevBG00.TXT
+Cacheing 'ElevBG' from data/chars/Misc/TechElev/ElevBG.TXT
+Cacheing 'InvPlatf' from data/chars/Misc/TechElev/Invplatf.TXT
+Cacheing 'Door00' from data/chars/Traag/Door00.TXT
+Cacheing 'DoorTech' from data/chars/Traag/DoorTech.TXT
+Cacheing 'Freezer' from data/chars/Misc/Freezer/Freezer.TXT
+Cacheing 'TechBars' from data/chars/Misc/TechDoor/TechBars.TXT
+Cacheing 'Portal' from data/bgs/Stage210/Portal.TXT
+Cacheing 'Portal4' from data/bgs/TechDro4/Portal4.TXT
+Cacheing 'ShrdScrn' from data/bgs/TechDro4/ShrdScrn.txt
+Cacheing 'Ch6Van' from data/bgs/Extra01/Ch6Van.txt
+Cacheing 'Pole' from data/bgs/Extra01/Pole.txt
+Cacheing 'Crane' from data/bgs/JunkYard/Crane.txt
+Cacheing 'JunkCar' from data/bgs/JunkYard/JunkCar.txt
+Cacheing 'JunkCarD' from data/bgs/JunkYard/JunkCarD.txt
+Cacheing 'Fence' from data/bgs/AlleyCat/Fence.TXT
+Cacheing 'WallBrk' from data/bgs/AlleyCat/WallBrk.TXT
+Cacheing 'TrashCan' from data/bgs/AlleyCat/TrashCan.TXT
+Cacheing 'TrashCan2' from data/bgs/AlleyCat/TrashCan2.TXT
+Cacheing 'Box' from data/bgs/AlleyCat/Box.TXT
+Cacheing 'ConSign' from data/bgs/AlleyCat/ConSign.TXT
+Cacheing 'Brick' from data/bgs/AlleyCat/Brick.TXT
+Cacheing 'LiftDoor' from data/bgs/BigApple/LiftDoor.txt
+Cacheing 'LiftDor2' from data/bgs/BigApple/LiftDor2.txt
+Cacheing 'ChainBal' from data/bgs/BigApple/ChainBal.txt
+Cacheing 'InvWall' from data/bgs/BigApple/InvWall.txt
+Cacheing 'OldMan' from data/bgs/Zoo/OldMan.TXT
+Cacheing 'TrashZoo' from data/bgs/Zoo/TrashZoo.TXT
+Cacheing 'TrashSub' from data/bgs/Subway/TrashSub.TXT
+Cacheing 'SubSeat' from data/bgs/Subway/SubSeat.txt
+Cacheing 'SubTrain' from data/bgs/Subway/SubTrain.txt
+Cacheing 'SubPole' from data/bgs/Subway/SubPole.txt
+Cacheing 'Bottle' from data/bgs/Sewer00/Bottle.txt
+Cacheing 'TrashDT' from data/bgs/Downtown/TrashDT.TXT
+Cacheing 'ParkMeDT' from data/bgs/Downtown/ParkMeDT.txt
+Cacheing 'FGFloor' from data/bgs/Sewers02/FGFloor.txt
+Cacheing 'FGFloorB' from data/bgs/RatKing/FGFloorB.txt
+Cacheing 'BluePipe' from data/bgs/RatKing/BluePipe.txt
+Cacheing 'Pillar' from data/bgs/Subway/Pillar.TXT
+Cacheing 'BrwnRock' from data/bgs/Cave/BrwnRock.txt
+Cacheing 'RockSpwn' from data/bgs/Cave/RockSpwn.txt
+Cacheing 'OtLwPole' from data/bgs/OutLaw/OtLwPole.txt
+Cacheing 'ShogHead' from data/chars/Shogun/ShogHead.txt
+Cacheing 'CaseyR' from data/chars/Casey/CaseyR.txt
+Cacheing 'Rhino' from data/chars/Roadkill/Rhino.txt
+Cacheing 'WartHog' from data/chars/Roadkill/WartHog.txt
+Cacheing 'Stalag01' from data/bgs/Cave/Stalag01.txt
+Cacheing 'StalagK' from data/bgs/Cave/StalagK.txt
+Cacheing 'Stalag02' from data/bgs/Cave/Stalag02.txt
+Cacheing 'WateDrop' from data/bgs/Cave/WateDrop.txt
+Cacheing 'WDropper' from data/bgs/Cave/WDropper.txt
+Cacheing 'InvEnem0' from data/chars/Empty/InvEnem0.txt
+Cacheing 'InvEnemy' from data/chars/Empty/InvEnemy.txt
+Cacheing 'InvEnem2' from data/chars/Empty/InvEnem2.txt
+Cacheing 'InvEneT3' from data/chars/Empty/InvEneT3.txt
+Cacheing 'InvEnem5' from data/chars/Empty/InvEnem5.txt
+Cacheing 'KnuckleF' from data/chars/KnuckleF/KnuckleF.txt
+Cacheing 'KnuckleH' from data/chars/KnuckleH/KnuckleH.txt
+Cacheing 'Roadkill' from data/chars/Roadkill/Roadkill.txt
+Cacheing 'Road02' from data/chars/Roadkill/Road02.txt
+Cacheing 'Road03' from data/chars/Roadkill/Road03.txt
+Cacheing 'Mouser' from data/chars/Mouser/Mouser.txt
+Cacheing 'Mouser1' from data/chars/Mouser/Mouser1.txt
+Cacheing 'Mouser2' from data/chars/Mouser/Mouser2.txt
+Cacheing 'Mouser4G' from data/chars/Mouser/Mouser4G.txt
+Cacheing 'HoleGlass' from data/chars/Mouser/HoleGlas.txt
+Cacheing 'Mouser4' from data/chars/Mouser/Mouser4.txt
+Cacheing 'FootDoor' from data/chars/Foot201/FootDoor.txt
+Cacheing 'FootElev' from data/chars/Foot204/FootElev.txt
+Cacheing 'FootScrn' from data/chars/Foot201/FootScrn.txt
+Cacheing 'Foot201' from data/chars/Foot201/Foot201.txt
+Cacheing 'Foot2010' from data/chars/Foot201/Foot2010.txt
+Cacheing 'Foot201M' from data/chars/Foot201/Foot201M.txt
+Cacheing 'BallFoot' from data/bgs/TechDro3/BallFoot.txt
+Cacheing 'Tech3Ft' from data/bgs/TechDro3/Tech3Ft.txt
+Cacheing 'FootMaFu' from data/chars/Foot201/FootMaFu.txt
+Cacheing 'FootT3FD' from data/bgs/Techdro3/FootT3FD.txt
+Cacheing 'FootT3FS' from data/bgs/TechDro3/FootT3FS.txt
+Cacheing 'Tech3Dor' from data/bgs/TechDro3/Tech3Dor.txt
+Cacheing 'Foot201K' from data/chars/Foot201/Foot201K.txt
+Cacheing 'Foot202' from data/chars/Foot202/Foot202.txt
+Cacheing 'Foot203' from data/chars/Foot203/Foot203.txt
+Cacheing 'Foot204' from data/chars/Foot204/Foot204.txt
+Cacheing 'Foot205' from data/chars/Foot205/Foot205.txt
+Cacheing 'Foot206' from data/chars/Foot206/Foot206.txt
+Cacheing 'Foot207' from data/chars/Foot207/Foot207.txt
+Cacheing 'Foot208' from data/chars/Foot208/Foot208.txt
+Cacheing 'Foot209' from data/chars/Foot209/Foot209.txt
+Cacheing 'Foot210' from data/chars/Foot210/Foot210.txt
+Cacheing 'Foot211' from data/chars/Foot211/Foot211.txt
+Cacheing 'Foot212' from data/chars/Foot212/Foot212.txt
+Cacheing 'Foot213' from data/chars/Foot203/Foot213.txt
+Cacheing 'Foot2130' from data/chars/Foot203/Foot2130.txt
+Cacheing 'Foot214' from data/chars/Foot214/Foot214.txt
+Cacheing 'Foot215' from data/chars/Foot215/Foot215.txt
+Cacheing 'Foot216' from data/chars/Foot216/Foot216.txt
+Cacheing 'Foot217' from data/chars/Foot217/Foot217.txt
+Cacheing 'Foot218' from data/chars/Foot218/Foot218.txt
+Cacheing 'Foot219' from data/chars/Foot219/Foot219.txt
+Cacheing 'Foot220' from data/chars/Foot220/Foot220.txt
+Cacheing 'Foot221' from data/chars/Foot221/Foot221.txt
+Cacheing 'Foot222' from data/chars/Foot222/Foot222.txt
+Cacheing 'Foot223' from data/chars/Foot223/Foot223.txt
+Cacheing 'Foot224' from data/chars/Foot224/Foot224.txt
+Cacheing 'Foot225' from data/chars/Foot225/Foot225.txt
+Cacheing 'Foot226' from data/chars/Foot226/Foot226.txt
+Cacheing 'Foot227' from data/chars/Foot227/Foot227.txt
+Cacheing 'Foot228' from data/chars/Foot228/Foot228.txt
+Cacheing 'FootMan' from data/chars/Foot201/FootMan.txt
+Cacheing 'FootWinD' from data/chars/Foot201/FootWinD.txt
+Cacheing 'FootPizz' from data/chars/Foot201/FootPizz.txt
+Cacheing 'FootWatr' from data/chars/Foot201/FootWatr.txt
+Cacheing 'SnowFoot' from data/chars/Foot203/SnowFoot.txt
+Cacheing 'SnowMan' from data/chars/SnowMan/SnowMan.TXT
+Cacheing 'SMRobot' from data/chars/SnowMan/SMRobot.TXT
+Cacheing 'FootCar' from data/chars/Foot201/FootCar.txt
+Cacheing 'FootCar1' from data/chars/Foot205/FootCar1.txt
+Cacheing 'FootCar2' from data/chars/Foot205/FootCar2.txt
+Cacheing 'FootCar3' from data/chars/Foot205/FootCar3.txt
+Cacheing 'FootTire' from data/chars/Foot201/FootTire.txt
+Cacheing 'FootTir2' from data/chars/Foot201/FootTir2.txt
+Cacheing 'FootBikL' from data/chars/FootBike/FootBikL.txt
+Cacheing 'FootBikR' from data/chars/FootBike/FootBikR.txt
+Cacheing 'Rider' from data/chars/FootBike/Rider.txt
+Cacheing 'FootBik1' from data/chars/FootBike/FootBik1.txt
+Cacheing 'Bike' from data/chars/FootBike/Bike.txt
+Cacheing 'FootJump' from data/chars/FootBike/FootJump.txt
+Cacheing 'FootBik5' from data/chars/FootBike/FootBik5.txt
+Cacheing 'Bike5' from data/chars/FootBike/Bike5.txt
+Cacheing 'FootJum5' from data/chars/FootBike/FootJum5.txt
+Cacheing 'FootChop' from data/chars/FootChop/FootChop.TXT
+Cacheing 'Robot' from data/chars/Robot/Robot.TXT
+Cacheing 'Beetle' from data/chars/Beetle/Beetle.TXT
+Cacheing 'Beetle0' from data/chars/Beetle/Beetle0.TXT
+Cacheing 'Beetle3' from data/chars/Beetle/Beetle3.TXT
+Cacheing 'BigNinja' from data/chars/BigNinja/BigNinja.TXT
+Cacheing 'Scorpion' from data/chars/Scorpion/Scorpion.TXT
+Cacheing 'Tiger' from data/chars/Tiger/Tiger.TXT
+Cacheing 'FootDoHo' from data/chars/Foot201/FootDoHo.txt
+Cacheing 'FootWall' from data/chars/Foot201/FootWall.txt
+Cacheing 'FootTech' from data/chars/Foot201/FootTech.txt
+Cacheing 'FootAlDo' from data/chars/Foot201/FootAlDo.TXT
+Cacheing 'PizzaMon' from data/chars/PizzaMon/PizzaMon.TXT
+Cacheing 'Rat' from data/chars/RatKing/Rat.txt
+Cacheing 'RatSpawn' from data/chars/RatKing/RatSpawn.txt
+Cacheing 'FootJ201' from data/bgs/LeatherH/FootJ201.txt
+Cacheing 'FootJ202' from data/bgs/LeatherH/FootJ202.txt
+Cacheing 'FootJ203' from data/bgs/LeatherH/FootJ203.txt
+Cacheing 'FootJ204' from data/bgs/LeatherH/FootJ204.txt
+Cacheing 'FootJ205' from data/bgs/LeatherH/FootJ205.txt
+Cacheing 'FootJ208' from data/bgs/LeatherH/FootJ208.txt
+Cacheing 'FootJ214' from data/bgs/LeatherH/FootJ214.txt
+Cacheing 'PizzaMnB' from data/chars/PizzaMnB/PizzaMnB.txt
+Cacheing 'PizzaMEs' from data/chars/PizzaMnB/PizzaMEs.txt
+Cacheing 'Tch3La00' from data/bgs/TechDro3/Tch3La00.txt
+Cacheing 'Tch3La10' from data/bgs/TechDro3/Tch3La10.txt
+Cacheing 'Tch3La50' from data/bgs/TechDro3/Tch3La50.txt
+Cacheing 'Tch3LaS0' from data/bgs/TechDro3/Tch3LaS0.txt
+Cacheing 'Tch3LaS1' from data/bgs/TechDro3/Tch3LaS1.txt
+Cacheing 'Tch3LaS5' from data/bgs/TechDro3/Tch3LaS5.txt
+Cacheing 'BeeScrn' from data/bgs/TechDro3/BeeScrn.txt
+Cacheing 'FG100' from data/bgs/Krang/FG100.txt
+Cacheing 'MoleChip' from data/bgs/Krang/MoleChip.txt
+Cacheing 'MoleCr00' from data/bgs/Krang/MoleCr00.txt
+Cacheing 'MoleCr01' from data/bgs/Krang/MoleCr01.txt
+Cacheing 'MoleCr02' from data/bgs/Krang/MoleCr02.txt
+Cacheing 'Baker' from data/bgs/OutLaw/Baker.txt
+Cacheing 'Thief01' from data/bgs/OutLaw/Thief01.txt
+Cacheing 'Thief02' from data/bgs/OutLaw/Thief02.txt
+Cacheing 'Thief03' from data/bgs/OutLaw/Thief03.txt
+Cacheing 'Thief04' from data/bgs/OutLaw/Thief04.txt
+Cacheing 'Thief05' from data/bgs/OutLaw/Thief05.txt
+Cacheing 'CaseEnmy' from data/chars/Casey/CaseEnmy.txt
+Cacheing 'BrkPoint' from data/bgs/OutLaw/BrkPoint.txt
+Cacheing 'OLBike' from data/bgs/OutLaw/OLBike.txt
+Cacheing 'Stove' from data/bgs/OutLaw/Stove.txt
+Cacheing 'Fridge' from data/bgs/OutLaw/Fridge.txt
+Cacheing 'IceCube' from data/bgs/OutLaw/IceCube.txt
+Cacheing 'Toaster' from data/bgs/OutLaw/Toaster.txt
+Cacheing 'Toast' from data/bgs/OutLaw/Toast.txt
+Cacheing 'TVEnemy' from data/bgs/OutLaw/TVEnemy.txt
+Cacheing 'SSKHLegF' from data/bgs/OutLaw/SSKHLegF.txt
+Cacheing 'SSKHLegB' from data/bgs/OutLaw/SSKHLegB.txt
+Cacheing 'SSKncHd0' from data/bgs/OutLaw/SSKncHd0.txt
+Cacheing 'SSKncHd1' from data/bgs/OutLaw/SSKncHd1.txt
+Cacheing 'SSKncHd2' from data/bgs/OutLaw/SSKncHd2.txt
+Cacheing 'SSKncHd3' from data/bgs/OutLaw/SSKncHd3.txt
+Cacheing 'SSKHLasr' from data/bgs/OutLaw/SSKHLasr.txt
+Cacheing 'RockSol0' from data/chars/RockSol0/RockSol0.txt
+Cacheing 'RockSol1' from data/chars/RockSol1/RockSol1.txt
+Cacheing 'RockSol2' from data/chars/RockSol2/RockSol2.txt
+Cacheing 'RockSol3' from data/chars/RockSol3/RockSol3.txt
+Cacheing 'RockH' from data/chars/RockH/RockH.txt
+Cacheing 'BebopH' from data/chars/BebopH/BebopH.txt
+Cacheing 'Scrag' from data/chars/Scrag/Scrag.TXT
+Cacheing 'Yellow' from data/chars/Yellow/Yellow.TXT
+Cacheing 'HatGang' from data/chars/HatGang/HatGang.TXT
+Cacheing 'ShortGan' from data/chars/ShortGan/ShortGan.TXT
+Cacheing 'BebopHW' from data/chars/BebopH/BebopHW.txt
+Cacheing 'ScragW' from data/chars/Scrag/ScragW.TXT
+Cacheing 'YellowW' from data/chars/Yellow/YellowW.TXT
+Cacheing 'HatGangW' from data/chars/HatGang/HatGangW.TXT
+Cacheing 'ShorGanW' from data/chars/ShortGan/ShorGanW.TXT
+Cacheing 'NinP01' from data/bgs/NinPizza/NinP01.txt
+Cacheing 'NinP02' from data/bgs/NinPizza/NinP02.txt
+Cacheing 'NinP03' from data/bgs/NinPizza/NinP03.txt
+Cacheing 'NinPizz1' from data/chars/NinPizz1/NinPizz1.txt
+Cacheing 'NinPizz2' from data/chars/NinPizz2/NinPizz2.txt
+Cacheing 'NinPizz3' from data/chars/NinPizz3/NinPizz3.txt
+Cacheing 'ESRob1' from data/bgs/TechDro0/ESRob1.txt
+Cacheing 'ESRob2' from data/bgs/TechDro0/ESRob2.txt
+Cacheing 'ESRob3' from data/bgs/TechDro0/ESRob3.txt
+Cacheing 'ESRob4' from data/bgs/TechDro0/ESRob4.txt
+Cacheing 'ESRob5' from data/bgs/TechDro0/ESRob5.txt
+Cacheing 'ESRob6' from data/bgs/TechDro0/ESRob6.txt
+Cacheing 'SpikeLog' from data/bgs/TechDro0/SpikeLog.txt
+Cacheing 'Tech0Dor' from data/bgs/TechDro0/Tech0Dor.txt
+Cacheing 'ShredFG' from data/bgs/TechDro0/ShredFG.txt
+Cacheing 'RockES' from data/chars/Rock/RockES.txt
+Cacheing 'BebopES' from data/chars/Bebop/BebopES.txt
+Cacheing 'Rock' from data/chars/Rock/Rock.txt
+Cacheing 'Bebop' from data/chars/Bebop/Bebop.txt
+Cacheing 'Ground' from data/chars/Ground/Ground.txt
+Cacheing 'Baxter1' from data/chars/Baxter1/Baxter1.txt
+Cacheing 'Tora' from data/chars/Tora/Tora.txt
+Cacheing 'Baxter2' from data/chars/Baxter2/Baxter2.txt
+Cacheing 'Granitor' from data/chars/Granitor/Granitor.txt
+Cacheing 'Shogun' from data/chars/Shogun/Shogun.txt
+Cacheing 'Shogun2' from data/chars/Shogun2/Shogun2.txt
+Cacheing 'Traag' from data/chars/Traag/Traag.txt
+Cacheing 'Krang' from data/chars/Krang/Krang.txt
+Cacheing 'Krang0' from data/chars/Krang/Krang0.txt
+Cacheing 'Shredder' from data/chars/Shredder/Shredder.txt
+Cacheing 'ShredderH' from data/chars/Shredder/ShredderH.txt
+Cacheing 'MutagMan' from data/chars/MutagMan/MutagMan.txt
+Cacheing 'ChromeDo' from data/chars/ChromeDo/ChromeDo.txt
+Cacheing 'Tricera' from data/chars/Tricera/Tricera.txt
+Cacheing 'Slash' from data/chars/Slash/Slash.txt
+Cacheing 'BlooSck' from data/chars/BloodSck/BloodSck.txt
+Cacheing 'RatKing' from data/chars/RatKing/RatKing.txt
+Cacheing 'LeatherH' from data/chars/LeatherH/LeatherH.txt
+Cacheing 'PizzaFac' from data/chars/PizzaFac/PizzaFac.txt
+Cacheing 'DirtBag' from data/chars/DirtBag/DirtBag.txt
+Cacheing 'Tokka' from data/chars/Tokka/Tokka.txt
+Cacheing 'Rahzar' from data/chars/Rahzar/Rahzar.txt
+Cacheing 'SSSpawn' from data/chars/SuperShd/SSSpawn.txt
+Cacheing 'SuperShd' from data/chars/SuperShd/SuperShd.txt
+
+Loaded 'Flash' from data/chars/misc/flash.txt 
+Loaded 'Leo' from data/chars/Leo/Leo.txt 
+sound_load_sample can't load sample from file 'data/sounds/TurtleDie.wav'!
+Command '//' not understood in file 'data/chars/Leo/Leo.txt'!
+Command '//' not understood in file 'data/chars/Leo/Leo.txt'!
+sound_load_sample can't load sample from file 'data/sounds/Pizza.wav'!
+WARNING: data/chars/Leo/Leo.txt tries to load a non-numeric value at jumpframe, where a number is expected!
+erroneus string: data/chars/Leo/Attack32.gif
+sound_load_sample can't load sample from file 'data/sounds/Beat.wav'!
+WARNING: data/chars/Leo/Leo.txt tries to load a non-numeric value at spawnframe, where a number is expected!
+erroneus string: data/chars/empty.gif
+WARNING: data/chars/Leo/Leo.txt tries to load a non-numeric value at jumpframe, where a number is expected!
+erroneus string: data/chars/Leo/MyToes01.gif
+sound_load_sample can't load sample from file 'data/sounds/Beat.wav'!
+WARNING: data/chars/Leo/Leo.txt tries to load a non-numeric value at jumpframe, where a number is expected!
+erroneus string: data/chars/Leo/Die71.gif
+WARNING: data/chars/Leo/Leo.txt tries to load a non-numeric value at jumpframe, where a number is expected!
+erroneus string: data/chars/Leo/Jump01.gif
+Loaded 'Don' from data/chars/Don/Don.txt 
+sound_load_sample can't load sample from file 'data/sounds/TurtleDie.wav'!
+Command '//' not understood in file 'data/chars/Don/Don.txt'!
+Command '//' not understood in file 'data/chars/Don/Don.txt'!
+sound_load_sample can't load sample from file 'data/sounds/Pizza.wav'!
+WARNING: data/chars/Don/Don.txt tries to load a non-numeric value at jumpframe, where a number is expected!
+erroneus string: data/chars/Don/Attack32.gif
+sound_load_sample can't load sample from file 'data/sounds/Beat.wav'!
+WARNING: data/chars/Don/Don.txt tries to load a non-numeric value at spawnframe, where a number is expected!
+erroneus string: data/chars/empty.gif
+WARNING: data/chars/Don/Don.txt tries to load a non-numeric value at jumpframe, where a number is expected!
+erroneus string: data/chars/Don/MyToes01.gif
+sound_load_sample can't load sample from file 'data/sounds/Beat.wav'!
+WARNING: data/chars/Don/Don.txt tries to load a non-numeric value at jumpframe, where a number is expected!
+erroneus string: data/chars/Don/Die71.gif
+Loaded 'Raph' from data/chars/Raph/Raph.txt 
+sound_load_sample can't load sample from file 'data/sounds/TurtleDie.wav'!
+Command '//' not understood in file 'data/chars/Raph/Raph.txt'!
+Command '//' not understood in file 'data/chars/Raph/Raph.txt'!
+sound_load_sample can't load sample from file 'data/sounds/Pizza.wav'!
+WARNING: data/chars/Raph/Raph.txt tries to load a non-numeric value at jumpframe, where a number is expected!
+erroneus string: data/chars/Raph/Attack32.gif
+sound_load_sample can't load sample from file 'data/sounds/Beat.wav'!
+WARNING: data/chars/Raph/Raph.txt tries to load a non-numeric value at spawnframe, where a number is expected!
+erroneus string: data/chars/empty.gif
+WARNING: data/chars/Raph/Raph.txt tries to load a non-numeric value at jumpframe, where a number is expected!
+erroneus string: data/chars/Raph/MyToes01.gif
+sound_load_sample can't load sample from file 'data/sounds/Beat.wav'!
+WARNING: data/chars/Raph/Raph.txt tries to load a non-numeric value at jumpframe, where a number is expected!
+erroneus string: data/chars/Raph/Die71.gif
+Loaded 'Mike' from data/chars/Mike/Mike.txt 
+sound_load_sample can't load sample from file 'data/sounds/TurtleDie.wav'!
+Command '//' not understood in file 'data/chars/Mike/Mike.txt'!
+Command '//' not understood in file 'data/chars/Mike/Mike.txt'!
+sound_load_sample can't load sample from file 'data/sounds/Pizza.wav'!
+WARNING: data/chars/Mike/Mike.txt tries to load a non-numeric value at jumpframe, where a number is expected!
+erroneus string: data/chars/Mike/Attack32.gif
+sound_load_sample can't load sample from file 'data/sounds/Beat.wav'!
+WARNING: data/chars/Mike/Mike.txt tries to load a non-numeric value at spawnframe, where a number is expected!
+erroneus string: data/chars/empty.gif
+WARNING: data/chars/Mike/Mike.txt tries to load a non-numeric value at jumpframe, where a number is expected!
+erroneus string: data/chars/Mike/MyToes01.gif
+sound_load_sample can't load sample from file 'data/sounds/Beat.wav'!
+WARNING: data/chars/Mike/Mike.txt tries to load a non-numeric value at jumpframe, where a number is expected!
+erroneus string: data/chars/Mike/Die71.gif
+Loaded 'Splintr' from data/chars/Splinter/Splinter.txt 
+sound_load_sample can't load sample from file 'data/sounds/TurtleDie.wav'!
+Command '//' not understood in file 'data/chars/Splinter/Splinter.txt'!
+Command '//' not understood in file 'data/chars/Splinter/Splinter.txt'!
+sound_load_sample can't load sample from file 'data/sounds/Beat.wav'!
+WARNING: data/chars/Splinter/Splinter.txt tries to load a non-numeric value at spawnframe, where a number is expected!
+erroneus string: data/chars/empty.gif
+sound_load_sample can't load sample from file 'data/sounds/Beat.wav'!
+Loaded 'April' from data/chars/April/April.txt 
+sound_load_sample can't load sample from file 'data/sounds/TurtleDie.wav'!
+Command '//' not understood in file 'data/chars/April/April.txt'!
+Command '//' not understood in file 'data/chars/April/April.txt'!
+Loaded 'Casey' from data/chars/Casey/Casey.txt 
+sound_load_sample can't load sample from file 'data/sounds/TurtleDie.wav'!
+Command '//' not understood in file 'data/chars/Casey/Casey.txt'!
+Command '//' not understood in file 'data/chars/Casey/Casey.txt'!
+sound_load_sample can't load sample from file 'data/sounds/Beat.wav'!
+WARNING: data/chars/Casey/Casey.txt tries to load a non-numeric value at spawnframe, where a number is expected!
+erroneus string: data/chars/empty.gif
+sound_load_sample can't load sample from file 'data/sounds/Beat.wav'!
+Loaded 'Casey$' from data/chars/Casey/OLCase.txt 
+Command 'alias' not understood in file 'data/chars/Casey/OLCase.txt'!
+sound_load_sample can't load sample from file 'data/sounds/TurtleDie.wav'!
+Command '//' not understood in file 'data/chars/Casey/OLCase.txt'!
+Command '//' not understood in file 'data/chars/Casey/OLCase.txt'!
+sound_load_sample can't load sample from file 'data/sounds/Beat.wav'!
+WARNING: data/chars/Casey/OLCase.txt tries to load a non-numeric value at spawnframe, where a number is expected!
+erroneus string: data/chars/empty.gif
+sound_load_sample can't load sample from file 'data/sounds/Beat.wav'!
+Loaded 'April$' from data/chars/April/April$.txt 
+sound_load_sample can't load sample from file 'data/sounds/TurtleDie.wav'!
+Command '//' not understood in file 'data/chars/April/April$.txt'!
+Command '//' not understood in file 'data/chars/April/April$.txt'!
+Loaded 'ShinCut' from data/chars/Leo/ShinCut.txt 
+Loaded 'GroundCl' from data/chars/Don/GroundCl.txt 
+Loaded 'Jamboree' from data/chars/Raph/Jamboree.txt 
+Loaded 'DragBrea' from data/chars/Mike/DragBrea.txt 
+Loaded 'SWave' from data/chars/Splinter/SWave.txt 
+Loaded 'StarAprl' from data/chars/April/StarAprl.txt 
+Command 'lifespawn' not understood in file 'data/chars/April/StarAprl.txt'!
+Loaded 'CWave' from data/chars/Casey/CWave.txt 
+Loaded 'READY' from data/chars/Misc/READY.txt 
+Loaded 'LightOut' from data/chars/Misc/Texts/LightOut.txt 
+Loaded 'Downfall' from data/chars/Misc/Texts/Downfall.txt 
+Loaded 'Swear' from data/chars/Misc/Texts/Swear.txt 
+Loaded 'Prayers' from data/chars/Misc/Texts/Prayers.txt 
+Loaded 'ShlBrain' from data/chars/Misc/Texts/ShlBrain.txt 
+Loaded 'Yippee' from data/chars/Misc/Texts/Yippee.txt 
+Loaded 'CrashTur' from data/chars/Misc/Texts/CrashTur.txt 
+Loaded 'MyToes' from data/chars/Misc/Texts/MyToes.txt 
+Loaded 'Invincbl' from data/chars/Misc/Texts/Invincbl.txt 
+Loaded 'Mutagen' from data/chars/Misc/Texts/Mutagen.txt 
+Loaded 'Republic' from data/chars/Misc/Texts/Republic.txt 
+Loaded '1stSewer' from data/chars/Misc/Texts/1stSewer.txt 
+Loaded 'Goodie' from data/chars/Misc/Texts/Goodie.txt 
+Loaded 'RahzarTX' from data/chars/Misc/Texts/TokkaTX.txt 
+Loaded 'TokkaTX' from data/chars/Misc/Texts/RahzarTX.txt 
+Loaded 'Missile' from data/chars/FootChop/Missile.TXT 
+Loaded 'LaserKra' from data/chars/Krang/LaserKra.TXT 
+WARNING: data/chars/Krang/LaserKra.TXT tries to load a non-numeric value at jumpframe, where a number is expected!
+erroneus string: data/chars/Krang/LaserKra.gif
+Loaded 'RcktKrng' from data/chars/Krang/RcktKrng.TXT 
+WARNING: data/chars/Krang/RcktKrng.TXT tries to load a non-numeric value at jumpframe, where a number is expected!
+erroneus string: data/chars/Krang/RcktKrng.gif
+Loaded 'BossExpl' from data/chars/ChromeDo/BossExpl/BossExpl.txt 
+Loaded 'BossExp2' from data/chars/ChromeDo/BossExpl/BossExp2.txt 
+Loaded 'BossExp3' from data/chars/ChromeDo/BossExpl/BossExp3.txt 
+Loaded 'IceRockB' from data/chars/Misc/IceRock/IceRockB.txt 
+WARNING: data/chars/Misc/IceRock/IceRockB.txt tries to load a non-numeric value at jumpframe, where a number is expected!
+erroneus string: data/chars/Misc/iceRock/IceRock.gif
+Loaded 'GranRock' from data/chars/Granitor/GranRock.TXT 
+Loaded 'GranRoc2' from data/chars/Granitor/GranRoc2.TXT 
+WARNING: data/chars/Granitor/GranRock.TXT tries to load a non-numeric value at spawnframe, where a number is expected!
+erroneus string: data/chars/Granitor/GranRock.gif
+Loaded 'FootScrn' from data/chars/Foot201/FootScrn.txt 
+Loaded 'Krang0' from data/chars/Krang/Krang0.txt 
+WARNING: data/chars/Krang/Krang0.txt tries to load a non-numeric value at spawnframe, where a number is expected!
+erroneus string: data/chars/Krang/Krang002.gif
+WARNING: data/chars/Krang/Krang0.txt tries to load a non-numeric value at jumpframe, where a number is expected!
+erroneus string: data/chars/Krang/Krang004.gif
+
+Loading models...............	Done!
+Object engine init...........	Done!
+Input init...................	Done!
+Create blending tables.......	Done!
+Save settings so far........	Done!
+
+
