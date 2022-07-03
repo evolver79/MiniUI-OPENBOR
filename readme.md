@@ -1,7 +1,7 @@
 # OPENBOR for MiniUi
 Inspired by: Matrioshka Brain and this video:
 https://www.youtube.com/watch?v=_jPFNcDJO5M
-You can also find some compatible roms and configuration files here.
+You can also find some compatible roms with the Miyoo Mini can be found in the video description
 
 
 ## Hwo to install
