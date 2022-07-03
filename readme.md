@@ -5,7 +5,7 @@ You can also find some compatible roms and configuration files here.
 
 
 ## Hwo to install
-1. Install Parasyte in: /Emus/parasyte (Get it here: 
-2. Put OPENBOR.pak in /Emus (Get it here:)
-3. Put your OpenBor Roms in /Roms/Beats of Rage (OPENBOR)
+1. Install Parasyte in: "/Emus/parasyte" (Get it here: https://github.com/steward-fu/miyoo-mini/releases/download/stock/parasyte_20220125.zip)
+2. Put OPENBOR.pak in "/Emus" (Get it here: https://github.com/evolver79/MiniUI-OPENBOR/releases/download/RC1/OPENBOR.zip)
+3. Put your OpenBor Roms in "/Roms/Beats of Rage (OPENBOR)"
 
